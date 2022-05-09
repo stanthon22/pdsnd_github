@@ -4,7 +4,7 @@
 5/9/2022
 
 ### Project Title
-Bikeshare
+Bikeshare Python Project
 
 ### Description
 This is a python code project that I copied from Osamashaban (https://github.com/Osamashaban/Explore_US_Bikeshare_Data) as I am taking the R version of this course and used the Jupityer notebook for my 2nd project and thus had no R code to use. This solution was suggested by one of the Mentors (Oscar) in the Ask a Mentor section when a previous student had the same issue. This bikeshare project provides data collected from a bikeshare company based in three different cities and allows the user to interrogate the data with their chosen programming language. 
